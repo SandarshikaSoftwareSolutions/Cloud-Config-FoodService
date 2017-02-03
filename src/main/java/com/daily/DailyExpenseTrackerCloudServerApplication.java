@@ -10,5 +10,6 @@ public class DailyExpenseTrackerCloudServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DailyExpenseTrackerCloudServerApplication.class, args);
+		System.out.println("Started cloud Sucessfully");
 	}
 }
